@@ -10,13 +10,13 @@ Je construis des systèmes d'IA générative de bout en bout, jusqu'à la produc
 
 | Projet | Ce qu'il fait | Résultat clé | Liens |
 |---|---|---|---|
-| **Juriscope** | Assistant RAG en droit du travail : cite l'article exact parmi 24 399 et refuse les questions hors périmètre | Bon article dans le top 10 : 76 %, contre 51 % en recherche par mots-clés ; 8,5 $ pour 1 000 questions | [Démo](https://mohamedradhi52.github.io/juriscope/) · [Code](https://github.com/MohamedRadhi52/juriscope) |
-| **FraudOps** | Détection de fraude bancaire avec 100 contrôles par jour et des fraudes connues 7 jours plus tard | Coût de la fraude ramené de 300 k€ à 54 k€ sur 8 semaines de transactions simulées | [Rapport](https://mohamedradhi52.github.io/fraudops/) · [Code](https://github.com/MohamedRadhi52/fraudops) |
-| **PkgPulse** | Plateforme data et prévision quotidienne en production, sur les téléchargements de crates.io | 260 séries, erreur réduite jusqu'à 12 %, intervalles à 90 % vérifiés dans 92 à 97 % des cas | [Tableau de bord](https://mohamedradhi52.github.io/pkgpulse/) · [Code](https://github.com/MohamedRadhi52/pkgpulse) |
+| **Juriscope** | Assistant RAG en droit du travail : cite l'article exact parmi 24 399 et refuse les questions hors périmètre | Bon article dans le top 10 : 76 %, contre 51 % en recherche par mots-clés ; 8,5 $ pour 1 000 questions | [Démo](https://mohamedradhi52.github.io/juriscope/) · [Code](https://github.com/MohamedRadhi52/juriscope) |
+| **FraudOps** | Détection de fraude bancaire avec 100 contrôles par jour et des fraudes connues 7 jours plus tard | Coût de la fraude ramené de 300 k€ à 54 k€ sur 8 semaines de transactions simulées | [Rapport](https://mohamedradhi52.github.io/fraudops/) · [Code](https://github.com/MohamedRadhi52/fraudops) |
+| **PkgPulse** | Plateforme data et prévision quotidienne en production, sur les téléchargements de crates.io | 260 séries, erreur réduite jusqu'à 12 %, intervalles à 90 % vérifiés dans 92 à 97 % des cas | [Tableau de bord](https://mohamedradhi52.github.io/pkgpulse/) · [Code](https://github.com/MohamedRadhi52/pkgpulse) |
 
 #### Expérience
 
-- **BMCI, DSI (Nouakchott) — stage de 2e année, juin à septembre 2026.** Chatbot RAG du service client, pour environ 20 000 clients par mois : évaluation RAGAS, découpage sémantique, garde-fous, streaming (latence perçue réduite de 80 %). Une partie du travail est en production.
+- **BMCI, DSI (Nouakchott) — stage de 2e année, juin à septembre 2026.** Chatbot RAG du service client, pour environ 20 000 clients par mois : évaluation RAGAS, découpage sémantique, garde-fous, streaming (latence perçue réduite de 80 %). Une partie du travail est en production.
 - **BPM Mauritanie — stage data science, juin à août 2025.** Audit et nettoyage de données bancaires, livraison d'un jeu de données pour entraîner des modèles.
 
 #### Outils
